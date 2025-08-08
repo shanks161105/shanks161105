@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi! I'm Agustín Duette Madkur
 
-<!--
-**shanks161105/shanks161105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer and aspiring data analyst based in Berlin, Germany.  
+Currently building *EasyTrainer*, a startup-level fitness app connecting athletes, trainers, and nutritionists — fully developed by me.
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on:
+- 🏋 EasyTrainer app (React Native → migrating to web and native mobile)
+- 📊 Data Analyst Bootcamp (Python, SQL, Pandas, Power BI)
+- 🧠 Cybersecurity (Cisco NetAcad - in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python, JavaScript, SQL
+- React Native, Firebase, HTML/CSS
+- Git & GitHub, GitHub Copilot, ChatGPT
+
+## 📈 Projects
+- 🔗 [EasyTrainer (MVP in progress)](link-to-your-repo)
+- 🔗 More projects coming soon...
+
+## 📫 Contact
+- Email: madkuragustin@gmail.com  
+- LinkedIn: [linkedin.com/in/agustín-duette-madkur](https://www.linkedin.com/in/agust%C3%ADn-duette-madkur)
